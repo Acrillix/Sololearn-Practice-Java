@@ -1,0 +1,8 @@
+public class Decrement {
+    public static void main(String [] args) {
+        int test = 6;
+        --test;
+        
+        System.out.println(test);
+    }
+}
