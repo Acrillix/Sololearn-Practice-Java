@@ -1,0 +1,9 @@
+class MyClass {
+    public static void main(String[] args) {
+        String name ="Brendan";
+        int age = 24;
+        double score = 15.9;
+        char group = 'Z';
+    System.out.println("My name is " + name + " and I am " + age + ". My score is " + score + ". ");
+    }
+}
