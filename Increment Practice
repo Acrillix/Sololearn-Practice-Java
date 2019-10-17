@@ -1,0 +1,8 @@
+public class Incerement {
+    public static void main(String [] args) {
+        int test = 3;
+        ++test;
+        
+        System.out.println(test);
+    }
+}
