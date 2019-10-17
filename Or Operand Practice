@@ -1,0 +1,10 @@
+public class OrOperand {
+    public static void main(String[] args) {
+        int age = 24;
+        int money = 100;
+        
+        if (age > 18 || money > 500) {
+            System.out.println("Welcome!");
+        }
+    }
+}
